@@ -1,0 +1,6 @@
+https://www.typescriptlang.org/docs/
+https://engineering.carsguide.com.au/es5-vs-es6-syntax-6c8350fa6998
+https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b
+
+https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164
+https://medium.com/javascript-in-plain-english/is-typescript-the-way-forward-659caa2cb10f
